@@ -23,7 +23,7 @@ You can use this sketch as demo sample or to entertain yourself :)
 
 ## Contact
 
-*To report any bugs or simply request support, please create an issue [here](https://github.com/rnd64/ToySon/issues/new).
+* To report any bugs or simply request support, please create an issue [here](https://github.com/rnd64/ToySon/issues/new).
 
 ## License
 
