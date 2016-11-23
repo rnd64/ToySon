@@ -14,7 +14,7 @@ You can use this sketch as demo sample or to entertain yourself :)
 ## Getting Started
 
 1. Use Arduino's Library Manager to install [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library)
-2. Connect HS-SR04 properly (see [Guide](https://github.com/rnd64/ToySon/blob/master/ToySon%20Guide.pdf) )
+2. Connect HS-SR04 properly (see [Guide](https://github.com/rnd64/ToySon/blob/master/ToySon%20Guide.pdf) and [sketch diagram](https://github.com/rnd64/ToySon/blob/master/Sketch/USMC_Sketch.png) )
 3. Download [ToySon Sketch] (https://github.com/rnd64/ToySon/blob/master/Sketch/USMC.ino) to Arduino
 4. Play!
 
